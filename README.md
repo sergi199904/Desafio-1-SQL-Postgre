@@ -1,2 +1,3 @@
 # SQL-Postgree
-Desafío de Introducción a bases de datos. https://youtu.be/WzK-diRZb88
+Desafío de Introducción a bases de datos.                                                                                                                       
+Link a video explicativo https://youtu.be/WzK-diRZb88
